@@ -1,0 +1,9 @@
+name: LuckSG
+author: sipLean
+description: LuckSG Minigame
+version: 0.1.0
+main: me.siplean.survivalgames.SurvivalGames
+commands:
+  survivalGames:
+    aliases: [sg]
+  start:
